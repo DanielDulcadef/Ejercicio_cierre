@@ -1,0 +1,33 @@
+.sect{
+    display: flex;
+    background-color: sandybrown;
+    flex-direction: column;
+    width: 800px;
+    align-items: center;
+    text-align: center;   
+}
+
+#primera1{
+    float: right;
+}
+
+#segunda2{
+    float: right;
+}
+
+#tercera3{
+    float: right;
+}
+
+#primera{
+    
+    background-color: crimson;
+}
+
+#segunda{
+    background-color: turquoise;
+}
+
+#tercera{
+    background-color: rgb(240, 216, 8);
+}
